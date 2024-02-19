@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.chatcointainer{
+    display: flex;
+    flex-direction: column;
+}
+.topchatcointainer{
+    background-color: white;
+    margin: 5px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 5px;
+}
+.bottomchatcointainer{
+    margin: 5px;
+    background-color: white;
+    border: 2px solid hotpink;
+    border-radius: 5px;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sidebarcointainer{
+    display: flex;
+    flex-direction: column;
+}
+.topcointainer{
+    background-color: white;
+    border: 2px solid teal;
+    border-radius: 5px;
+    margin: 3px;
+    height: 85px;
+}
+.middlecointainer{
+    background-color: white;
+    border: 2px solid teal;
+    border-radius: 5px;
+    margin: 3px;
+    height: 55px;
+}
+.lastcointainer{
+    background-color: white;
+    border: 2px solid teal;
+    border-radius: 5px;
+    margin: 3px;
+    height: 75vh;
+}
