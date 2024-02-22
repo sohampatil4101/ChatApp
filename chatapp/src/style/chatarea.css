@@ -12,10 +12,19 @@
     margin: 5px;
     border: 2px solid darkgoldenrod;
     border-radius: 5px;
+    height: 55px;
+}
+.middlechatcointainer{
+    margin: 5px;
+    background-color: white;
+    border: 2px solid hotpink;
+    border-radius: 5px;
+    height: 77vh;
 }
 .bottomchatcointainer{
     margin: 5px;
     background-color: white;
     border: 2px solid hotpink;
     border-radius: 5px;
+    height: 55px;
 }

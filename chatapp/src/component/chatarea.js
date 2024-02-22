@@ -5,10 +5,14 @@ export default function chatarea() {
     <>
     <div className="chatcointainer">
         <div className="topchatcointainer">
-            <p>These is top cointeiner</p>
+            These is top cointeiner
+            
+        </div>
+        <div className="middlechatcointainer">
+            These is bottom cointeiner
         </div>
         <div className="bottomchatcointainer">
-            <p>These is bottom cointeiner</p>
+            These is bottom cointeiner
         </div>
     </div>
     </>
